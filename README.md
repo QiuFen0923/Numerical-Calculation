@@ -3,6 +3,7 @@
 这两题均利用了泰勒级数展开及Horner's Method（一种能加速多项式运算的反向运算）
 
 以下是sin(x)和cos(x)的泰勒展开式：
+
 $$
 \sin(x) = \sum_{k=0}^{\infty} (-1)^k \frac{x^{2k+1}}{(2k+1)!} = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \cdots
 $$
@@ -12,6 +13,7 @@ $$
 $$
 
 以sin(x)的泰勒展开式举例：
+
 $$
 \sin(x) = x \Bigg( 1 - \frac{x^2}{3 \cdot 2} \bigg( 1 - \frac{x^2}{5 \cdot 4} \Big( 1 - \frac{x^2}{7 \cdot 6} \big( \cdots \big) \Big) \bigg) \Bigg)
 $$
