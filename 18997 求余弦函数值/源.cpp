@@ -1,6 +1,6 @@
-#include <iostream>
-#include <cmath>
-#include <iomanip>
+#include<iostream>
+#include<cmath>
+#include<iomanip>
 
 #define PI 3.1415926535897932l
 
