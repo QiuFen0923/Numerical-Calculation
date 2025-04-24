@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\课程资料\大三下\数值计算\OJ\18997 求余弦函数值\源.cpp(31,37): error C2039: "setprecision": 不是 "std" 的成员
+E:\Visual Studio\VC\Tools\MSVC\14.36.32532\include\iostream(19,1): message : 参见“std”的声明
+E:\课程资料\大三下\数值计算\OJ\18997 求余弦函数值\源.cpp(31,49): error C3861: “setprecision”: 找不到标识符
