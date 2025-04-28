@@ -127,7 +127,7 @@ $$
 
 
 $$
-L\_X1=L\_X2*GOLDEN
+L_{X1}=L_{X2}*GOLDEN
 $$
 
 因此得到X1的X坐标为A+L_X1，X2的X坐标为A+L_X2
