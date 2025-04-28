@@ -143,7 +143,7 @@ $$
 新X1点是原[A, X1]区间的黄金分割点，因此新的L_X1为：
 
 $$
-new\ L\_X1=origin\ L\_X1*GOLDEN
+new\ L_{X1}=origin\ L_{X1}*GOLDEN
 $$
 
 
@@ -154,7 +154,7 @@ $$
 新X2点是原[X2, B]区间的黄金分割点，而**新的L_X2恰好等于原L_X1**
 
 $$
-new\ L\_X2=origin\ L\_X1
+new\ L_{X2}=origin\ L_{X2}
 $$
 
 
